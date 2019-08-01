@@ -19,9 +19,7 @@ aside{
 	font-size:15px;
 	border:1px solid;
 }
-.aside_block a{
-	background-color: #00FFFF;
-}
+
 .aside_block a> h4:hover{
 	color:rgb(12, 231, 103);
 }
